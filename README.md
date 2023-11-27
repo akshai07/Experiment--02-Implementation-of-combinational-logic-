@@ -4,7 +4,7 @@ Reference no:23014144
 
 # Experiment02 Implementation of combinational logic
  
-## AIM:
+## AIM: 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
  F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 ## EQUIPMENT REQUIRED:
